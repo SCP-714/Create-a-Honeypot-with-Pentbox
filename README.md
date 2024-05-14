@@ -1,5 +1,6 @@
-#Create a Honeypot with Pentbox
-#Objective:
+# Create a Honeypot with Pentbox
+## Objective:
+
 You are the IT security administrator for a small corporate network. You are concerned about unauthorized activity in your DMZ, so you decide to set up a honeypot to study hacking attempts.
 In this lab, your task is to:
 
@@ -8,7 +9,7 @@ Test the honeypot on Consult-Lap using www_stage.corpnet.xyz in Chrome.
 Verify the intrusion on www_stage.
 Answer the questions.
 
-Skills Learned:
+### Skills Learned:
 
 What is Pentbox and what is it for? - Pentbox is a security suite that contains tools for penetration testing, including password crackers, honeypots, and denial of service testing tools. It's used to test the stability and security of networks, and can perform activities such as: Cracking hashes, DNS enumeration, Stress testing, and HTTP directory brute force.
 
